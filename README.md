@@ -35,8 +35,10 @@ This project provides a complete solution for solving linear systems using Gauss
    [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
 
 2. Download the **Community Edition** (free).
-   
-![image](https://github.com/user-attachments/assets/d7f57bcf-8e0f-4f88-ad43-ec35d01ccb8d)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7f57bcf-8e0f-4f88-ad43-ec35d01ccb8d" alt="image" />
+</p>
 
 4. Install IntelliJ following the installer instructions for your operating system.
 
@@ -47,7 +49,9 @@ This project provides a complete solution for solving linear systems using Gauss
 1. Open IntelliJ IDEA.
 2. On the **Welcome screen**, click on **"Clone Repository"**.
    
-![image](https://github.com/user-attachments/assets/4344bcd1-547a-4ace-be1e-208eda7b4cea)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4344bcd1-547a-4ace-be1e-208eda7b4cea" alt="image" />
+</p>
 
 4. In the **URL** field, enter this repository link
 
@@ -55,7 +59,9 @@ This project provides a complete solution for solving linear systems using Gauss
    https://github.com/Ramon-1072415661/LinearSystemSolver.git
    ```
 
-   ![image](https://github.com/user-attachments/assets/6bc62102-b57b-49be-9bb8-7e668fee6df6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6bc62102-b57b-49be-9bb8-7e668fee6df6" alt="image" />
+</p>
 
 6. Choose a **local directory** where IntelliJ will save the project.
 7. Click **"Clone"**.
@@ -72,7 +78,9 @@ This project provides a complete solution for solving linear systems using Gauss
    * Set **Project SDK** to the appropriate Java version.
    * If no SDK is available, click **Add SDK** → **Download JDK** → choose version 23+.
 
-![image](https://github.com/user-attachments/assets/fafec615-a253-4622-82af-46d914be7eb3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fafec615-a253-4622-82af-46d914be7eb3" alt="image" />
+</p>
 
 ---
 
@@ -88,7 +96,9 @@ This project provides a complete solution for solving linear systems using Gauss
    * Input coefficients (if manual mode)
    * View the solution process and results
 
-![image](https://github.com/user-attachments/assets/65895b39-0ba0-4096-93e7-2c4a308b6a6c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65895b39-0ba0-4096-93e7-2c4a308b6a6c" alt="image" />
+</p>
 
 ---
 
@@ -103,7 +113,9 @@ This project provides a complete solution for solving linear systems using Gauss
 > * IntelliJ may prompt to add JUnit automatically. Accept this prompt.
 > * Alternatively, add it manually via **File** → **Project Structure** → **Libraries**.
 
-![image](https://github.com/user-attachments/assets/2c7a6d16-7c2d-4365-b872-c8ce408b192b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c7a6d16-7c2d-4365-b872-c8ce408b192b" alt="image" />
+</p>
 
 ---
 
